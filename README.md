@@ -26,7 +26,7 @@ Welcome to my GitHub! I'm a senior **Computer Science** major at the University 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unix/unix-original.svg" alt="UNIX" width="40"/>  
 
 **Certifications (in progress):**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/CompTIA_logo.svg/256px-CompTIA_logo.svg.png" alt="CompTIA A+" width="60"/>
+![CompTIA A+](https://img.shields.io/badge/CompTIA_A%2B-0078D6?style=for-the-badge&logo=comptia&logoColor=white)  
 
 ---
 
