@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a senior **Computer Science** major at the University 
 
 ---
 
-## 🛠 Technical Skills
+## 🛠 Skills
 
 **Programming Languages:**  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/> 
@@ -33,5 +33,4 @@ Welcome to my GitHub! I'm a senior **Computer Science** major at the University 
 ## 📫 Contact Me
 
 - Email: [wblake0160@gmail.com](mailto:wblake0160@gmail.com)  
-- LinkedIn: [linkedin.com/in/blake-willis](https://www.linkedin.com/in/blake-willis/)  
-- GitHub: [github.com/BlakeWillis](https://github.com/BlakeWillis)  
+- GitHub: [github.com/BlakeWillis](https://github.com/wBlakee)  
