@@ -6,8 +6,6 @@ Welcome to my GitHub! I'm a senior **Computer Science** major at the University 
 
 ## 🛠 Technical Skills
 
-## 🛠 Technical Skills
-
 **Programming Languages:**  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40"/> 
@@ -24,7 +22,7 @@ Welcome to my GitHub! I'm a senior **Computer Science** major at the University 
 
 **Operating Systems:**  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unix/unix-original.svg" alt="UNIX" width="40"/>  
 
 **Certifications (in progress):**  
