@@ -1,6 +1,6 @@
 # Hi, I'm Blake 👋
 
-Welcome to my GitHub! I'm a senior **Computer Science** major at the University of North Alabama.
+I am a senior **Computer Science** major at the University of North Alabama.
 
 ---
 
