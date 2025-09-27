@@ -6,27 +6,30 @@ Welcome to my GitHub! I'm a senior **Computer Science** major at the University 
 
 ## 🛠 Technical Skills
 
+## 🛠 Technical Skills
+
 **Programming Languages:**  
-![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) 
-![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg) 
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) 
-![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg) 
-![R](https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg)  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40"/>  
 
 **Tools & Editors:**  
-![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) 
-![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg) 
-![VS Code](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg) 
-![Visual Studio](https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg) 
-![Vim](https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg)  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim" width="40"/>  
 
 **Operating Systems:**  
-![Windows](https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg) 
-![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)  
-![UNIX](https://raw.githubusercontent.com/devicons/devicon/master/icons/unix/unix-original.svg)  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unix/unix-original.svg" alt="UNIX" width="40"/>  
 
-**Certifications:**  
-![CompTIA A+](https://upload.wikimedia.org/wikipedia/commons/2/2f/CompTIA_logo.svg)  
+**Certifications (in progress):**  
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/CompTIA_logo.svg" alt="CompTIA A+" width="60"/>
+
 
 ---
 
