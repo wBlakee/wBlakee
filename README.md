@@ -30,5 +30,5 @@
 
 ## 📫 Contact Me
 
-- Email: [wblake0160@gmail.com](mailto:wblake0160@gmail.com)  
+- Email: [blakedanielwillis@gmail.com](mailto:blakedanielwillis@gmail.com)  
 - GitHub: [github.com/BlakeWillis](https://github.com/wBlakee)  
