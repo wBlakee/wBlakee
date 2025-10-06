@@ -31,4 +31,4 @@
 ## 📫 Contact Me
 
 - Email: [blakedanielwillis@gmail.com](mailto:blakedanielwillis@gmail.com)  
-- GitHub: [github.com/BlakeWillis](https://github.com/wBlakee)  
+- GitHub: [github.com/blakedanielwillis](https://github.com/blakedanielwillis)  
