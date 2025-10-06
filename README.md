@@ -1,5 +1,4 @@
 # Hi, I'm Blake Willis👋
-
 🧑🏼‍💻 Senior **Computer Science** Student at the University of North Alabama.
 --
 
