@@ -1,7 +1,7 @@
 # Hi, I'm Blake Willis👋
 🧑🏼‍💻 Senior **Computer Science** Student at the University of North Alabama.
 --
-
+I am currently enrolled at the University of North Alabama as a Computer Science major with plans to graduate in May 2026! 
 ## 🛠 Skills
 
 **Programming Languages:**  
