@@ -1,8 +1,7 @@
-# Hi, I'm Blake 👋
-
-I am a senior **Computer Science** major at the University of North Alabama.
-
----
+# Hi, I'm Blake Willis👋
+======================================
+🧑🏼‍💻 Senior **Computer Science** Student at the University of North Alabama.
+------------------------------------------
 
 ## 🛠 Skills
 
